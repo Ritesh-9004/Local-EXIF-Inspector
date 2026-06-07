@@ -8,7 +8,6 @@
   </p>
 </div>
 
-A local-first EXIF metadata extractor with a React/Vite frontend and FastAPI backend.
 
 ## Overview
 
